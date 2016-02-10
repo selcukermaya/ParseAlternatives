@@ -406,6 +406,9 @@ BaasBox provides a web administrative console, user management API and signup wi
 A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/43)*)
 
+- **[DreamFactory](https://www.dreamfactory.com/)**
+DreamFactory is an open source REST API automation platform for mobile, IoT, and web applications. Built on the Laravel framework, DreamFactory automatically creates REST APIs for SQL, NoSQL, file storage, email, and push notifications. Connect to your data sources, script business logic with Javascript or PHP, secure your APIs with built-in access control, JWT, OAuth, and AD/LDAP, and get started with sample apps for Objective-C, Swift, Android, Angular 1 and 2, React, Javascript, Titanium, and .NET.
+
 - **[GUN](http://gun.js.org)** :zap:
 GUN is a highly modular, open-source, real-time, offline-first, distributed cache storage engine. By default gun uses localStorage for data storage, but with [gun-level](https://github.com/PsychoLlama/gun-level) there are [many more data storage engines](https://github.com/Level/levelup/wiki/Modules#storage) just a module away. GUN defaults to pushing all data. The gun team is regularly releasing new modules, new and improved functionality, and improving performance.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/132)*)
