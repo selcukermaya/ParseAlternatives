@@ -433,6 +433,9 @@ LoopBack is an open-source Node.js framework built on top of Express optimized f
 Marlin is a fast (2000+ requests per second) REST API library built on top of redis server. Its has no specific clients like Android or iOS. But it has got developer API for custom APIs which can be written in Python. ([docs](http://atmb4u.github.io/marlin))
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/133)*)
 
+- **[Parse Server](https://github.com/ParsePlatform/parse-server)**
+On the same day that Facebook announced they were shutting down Parse, they also released an open-source replacement called Parse Server.Many notable Parse features are missing including the Dashboard, Webhooks, Push delivery, Jobs, Analytics and Config.
+
 - **[Piwik](http://piwik.org)**
 Piwik is the leading open-source analytics platform that gives you more than just powerful analytics.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/151)*)
