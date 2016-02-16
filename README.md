@@ -159,12 +159,6 @@ Syncano is a highly customizable BaaS that greatly reduces the need for backend 
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/41)*)
 
-- **[Wakanda](http://www.wakanda.io)**
-Wakanda is an open source full stack JavaScript platform to develop and deploy mobile & Web apps in enterprise. 
-With Wakanda you can visually create your data model, associate CRUD operations to user groups, and your data is right away available through an automatically generated REST API. You can use Wakanda’s JavaScript client side connectors to consume the API without effort whether you are using Angular, React, Aurelia or another framework.
-Deploy your application yourself or just click on a button inside the studio and it will be deployed for you.
-Use directly Ionic and Angular from the studio to develop your web and mobile apps with livereload, preview, run on device and build available from the toolbar, no command line needed. Wakanda platform is cloud based but also deployable on premise with one click.
-
 - **[ZetaPush](https://zetapush.com)** :zap:
 ZetaPush is a realtime BaaS providing out of the box authentications and services. You can use noSQL database, file storage, search, mail, sms, etc, everything as a service. ZetaPush provides SDKs for mobile, web and IoT.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/102)*)
