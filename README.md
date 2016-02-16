@@ -22,8 +22,8 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 - [User Administration providers](#user-administration-providers)
 - [Backends for Game developers](#backends-for-game-developers)
 - [Open-Source Solutions](#open-source-solutions)
-- [Parse Server infrastructure providers](#parse-server-infrastructure-providers)
 - [Parse Server hosting providers](#parse-server-hosting-providers)
+- [Parse Server infrastructure providers](#parse-server-infrastructure-providers)
 
 The real-time providers are marked with :zap: icon.
 
@@ -454,6 +454,36 @@ Piwik is the leading open-source analytics platform that gives you more than jus
 The application framework for building web, mobile and IoT backends exclusively on Amazon Web Services' Lambda and API Gateway.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/206)*)
 
+###Parse Server hosting providers
+
+- **[Nimble Parse](http://nimbleparse.com)**
+We at Nimblestack built and launched a 100% Parse compatible API in less than one week. Current offer includes Object creation & query, User management, and Cloud Code. Push notifications and background jobs are in the pipeline.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/252)*)
+
+- **[NodeChef Parse Server](https://www.nodechef.com/parse-server)**
+Managed Parse Server. Build your perfect app on any platform without worrying about backend management.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/255)*)
+
+- **[Oursky Parse Hosting](http://parse-hosting.oursky.com)**
+Don’t panic. We migrate your Parse app and host your backend. Migrate to a server under your control; we do maintenance and upgrade so you wouldn't have to. We host. We migrate. We support.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/256)*)
+
+- **[ParseGround](http://www.parseground.com)**
+ParseGround takes care for the server management, so you can focus on your apps. As easy as before. We’ll migrate, host & support your Parse apps. Free migration, 24/7 support, Multi-Geo coverage, Dashboard / Metrics, Automated Scaling, Free SSL. Simple and flexible pricing, starts from $4.95/mo. Based on AWS Technologies.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/253)*)
+
+- **[ParseHosting](http://parsehosting.net)**
+We decided to launch ParseHosting in order to support all our exsiting clients and other developers who rely on the service. We are a team of expert iOS and Android app developers who have been using Parse to support our client’s projects for many years.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/213)*)
+
+- **[RunParse](http://www.runparse.com)**
+We can help you migrate and host your app to minimize downtime and disruption.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/257)*)
+
+- **[YourParse](http://yourparse.com)**
+We will provide a new way to host your Parse application. You will be independent from cloud-providers, and your Parse apps will be shining like never before. We are a small group of IT engineers, who also stuck in Parse. We decided to create an easy way to create your own parse server, so everyone can enjoy further all the advantages, what Parse provide(d), with reliable pricing. 
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/258)*)
+
 ###Parse Server infrastructure providers
 
 - **[AWS](https://aws.amazon.com)**
@@ -491,33 +521,3 @@ Cloud provider with support for it's own cloud, aws and azure. Supports running 
 - **[Triton](https://www.joyent.com)**
 Joyents elastic container infrastructure backed by bare metal. It allows you to run Node.js apps and Mongo and provide a lot of tools for production debugging of Node.js apps.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/182)*)
-
-###Parse Server hosting providers
-
-- **[Nimble Parse](http://nimbleparse.com)**
-We at Nimblestack built and launched a 100% Parse compatible API in less than one week. Current offer includes Object creation & query, User management, and Cloud Code. Push notifications and background jobs are in the pipeline.
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/252)*)
-
-- **[NodeChef Parse Server](https://www.nodechef.com/parse-server)**
-Managed Parse Server. Build your perfect app on any platform without worrying about backend management.
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/255)*)
-
-- **[Oursky Parse Hosting](http://parse-hosting.oursky.com)**
-Don’t panic. We migrate your Parse app and host your backend. Migrate to a server under your control; we do maintenance and upgrade so you wouldn't have to. We host. We migrate. We support.
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/256)*)
-
-- **[ParseGround](http://www.parseground.com)**
-ParseGround takes care for the server management, so you can focus on your apps. As easy as before. We’ll migrate, host & support your Parse apps. Free migration, 24/7 support, Multi-Geo coverage, Dashboard / Metrics, Automated Scaling, Free SSL. Simple and flexible pricing, starts from $4.95/mo. Based on AWS Technologies.
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/253)*)
-
-- **[ParseHosting](http://parsehosting.net)**
-We decided to launch ParseHosting in order to support all our exsiting clients and other developers who rely on the service. We are a team of expert iOS and Android app developers who have been using Parse to support our client’s projects for many years.
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/213)*)
-
-- **[RunParse](http://www.runparse.com)**
-We can help you migrate and host your app to minimize downtime and disruption.
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/257)*)
-
-- **[YourParse](http://yourparse.com)**
-We will provide a new way to host your Parse application. You will be independent from cloud-providers, and your Parse apps will be shining like never before. We are a small group of IT engineers, who also stuck in Parse. We decided to create an easy way to create your own parse server, so everyone can enjoy further all the advantages, what Parse provide(d), with reliable pricing. 
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/258)*)
