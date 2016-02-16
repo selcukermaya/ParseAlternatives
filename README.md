@@ -52,6 +52,10 @@ Secure Mobile Security as a Service (MSaaS) platform. Configurable encryption, a
 Apps Panel is an ISV which created an “as a Service” 360° Mobile Backend (MBaaS) for apps/IoT. This innovative middleware allows a global management of apps/IoT (content, marketing, analytics, monitoring…) with a comprehensive Web interface, and an API development/Gateways to interact dynamically with corporate information systems.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/pull/138)*)
 
+- **[AppStax](http://www.appstax.com)** :zap:
+AppStax provides the back-end services you need to build scalable apps for a global market. Replace all or parts of your back-end using high-availability services for data storage, real-time communications, and NodeJS-based server code. Real-time capabilities include channel-based publish-subscribe models, secure communications between users, and two-way data-binding. Two-way data-binding makes it trivial to notify clients in real-time whenever data is updated in the back-end.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/pull/138)*)
+
 - **[Appzio](https://appzio.com)** :zap:
 Appzio offers a full REST mobile backend, push notifications, SMS sending & mobile app CMS that allows logic & content changes using web admin dashboard. Integrations to Facebook, Google Analytics, Flurry and custom third party REST api's. Backend driven mobile solution with native iOS and Android client code.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/94)*)
