@@ -434,7 +434,7 @@ Marlin is a fast (2000+ requests per second) REST API library built on top of re
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/133)*)
 
 - **[Parse Server](https://github.com/ParsePlatform/parse-server)**
-On the same day that Facebook announced they were shutting down Parse, they also released an open-source replacement called Parse Server.Many notable Parse features are missing including the Dashboard, Webhooks, Push delivery, Jobs, Analytics and Config.
+On the same day that Facebook announced they were shutting down Parse, they also released an open-source replacement called Parse Server. Many notable Parse features are missing including the Dashboard, Webhooks, Push delivery, Jobs, Analytics and Config.
 
 - **[Piwik](http://piwik.org)**
 Piwik is the leading open-source analytics platform that gives you more than just powerful analytics.
