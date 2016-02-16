@@ -406,7 +406,7 @@ BaasBox provides a web administrative console, user management API and signup wi
 A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/43)*)
 
-- **[DreamFactory](https://www.dreamfactory.com/)**
+- **[DreamFactory](https://dreamfactory.com)**
 DreamFactory is an open source REST API automation platform for mobile, IoT, and web applications. Built on the Laravel framework, DreamFactory automatically creates REST APIs for SQL, NoSQL, file storage, email, and push notifications. Connect to your data sources, script business logic with Javascript or PHP, secure your APIs with built-in access control, JWT, OAuth, and AD/LDAP, and get started with sample apps for Objective-C, Swift, Android, Angular 1 and 2, React, Javascript, Titanium, and .NET.
 
 - **[GUN](http://gun.js.org)** :zap:
