@@ -50,11 +50,11 @@ Secure Mobile Security as a Service (MSaaS) platform. Configurable encryption, a
 
 - **[Apps Panel](http://www.appspanel.com)** :zap:
 Apps Panel is an ISV which created an “as a Service” 360° Mobile Backend (MBaaS) for apps/IoT. This innovative middleware allows a global management of apps/IoT (content, marketing, analytics, monitoring…) with a comprehensive Web interface, and an API development/Gateways to interact dynamically with corporate information systems.
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/pull/138)*)
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/246)*)
 
 - **[AppStax](http://www.appstax.com)** :zap:
 AppStax provides the back-end services you need to build scalable apps for a global market. Replace all or parts of your back-end using high-availability services for data storage, real-time communications, and NodeJS-based server code. Real-time capabilities include channel-based publish-subscribe models, secure communications between users, and two-way data-binding. Two-way data-binding makes it trivial to notify clients in real-time whenever data is updated in the back-end.
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/pull/138)*)
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/247)*)
 
 - **[Appzio](https://appzio.com)** :zap:
 Appzio offers a full REST mobile backend, push notifications, SMS sending & mobile app CMS that allows logic & content changes using web admin dashboard. Integrations to Facebook, Google Analytics, Flurry and custom third party REST api's. Backend driven mobile solution with native iOS and Android client code.
@@ -154,6 +154,7 @@ Backend-as-a-service focused on a powerful interface for creating your database 
 
 - **[ShepHertz App42](http://api.shephertz.com)**
 ShepHertz provides a Omni-Channel Platform (mobile, social, gaming, TV, IoT, wearables etc.) to build Apps and Games. Deployed in 9 countries, processing 25+ Billion API Calls and trusted by thousands of Indie developers, App Studios and Enterprises across the world, App42 offers 25+ mBaaS modules such as Push Notifications, NoSQL Storage, Cloud Code, User Management, File Upload, Advanced Actionable Analytics, Gaming Backend APIs and much more.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/248)*)
 
 - **[Syncano](https://www.syncano.io)**
 Syncano is a highly customizable BaaS that greatly reduces the need for backend code and middleware so developers can focus on building exceptional user experiences.
@@ -301,7 +302,8 @@ Make your product better by measuring actions, instead of page views. Mixpanel g
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/117)*)
 
 - **[Tapjoy](http://www.tapjoy.com)** :zap:
-Tapjoy, the mobile app industry’s first personalized monetization platform, utilizes their holistic LTV infrastructure to enable app developers to deliver personalized, contextually relevant engagement and monetization campaigns. Tapjoy offers best in class analytics features such as the Future Value MapTM, Cohort Analysis, IAP Revenue, Real-Time Analytics, Funnel Analysis and Churn Analysis so you can understand exactly what your users are doing now and predict what they will do in the future. With that information, you can transform insights into action with through our robust Marketing Automation capabilities allowing you to send user-level targeted push messages, in-app message, rewarded messages, and more. (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/232)*)
+Tapjoy, the mobile app industry’s first personalized monetization platform, utilizes their holistic LTV infrastructure to enable app developers to deliver personalized, contextually relevant engagement and monetization campaigns. Tapjoy offers best in class analytics features such as the Future Value MapTM, Cohort Analysis, IAP Revenue, Real-Time Analytics, Funnel Analysis and Churn Analysis so you can understand exactly what your users are doing now and predict what they will do in the future. With that information, you can transform insights into action with through our robust Marketing Automation capabilities allowing you to send user-level targeted push messages, in-app message, rewarded messages, and more.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/232)*)
 
 - **[Taplytics](https://taplytics.com)**
 Taplytics is a fully integrated mobile A/B testing, push notification, and analytics platform providing the tools you need to optimize your mobile app. Taplytics supports transactional, geo, event and behavioral triggered push notifications, all of which can be a/b tested and optimized for success.
@@ -353,6 +355,7 @@ Identity layer for your apps with integrations for popular backend frameworks an
 
 - **[Tapglue](https://www.tapglue.com)**
 Tapglue provides a social layer including user-management for app developers. You can signup and login users, create social graphs (friend & follower model) and build feeds on top of it.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/249)*)
 
 ###Backends for Game developers
 
@@ -412,6 +415,7 @@ A full-stack open-source NoSQL database. It includes an embedded database (for i
 
 - **[DreamFactory](https://dreamfactory.com)**
 DreamFactory is an open source REST API automation platform for mobile, IoT, and web applications. Built on the Laravel framework, DreamFactory automatically creates REST APIs for SQL, NoSQL, file storage, email, and push notifications. Connect to your data sources, script business logic with Javascript or PHP, secure your APIs with built-in access control, JWT, OAuth, and AD/LDAP, and get started with sample apps for Objective-C, Swift, Android, Angular 1 and 2, React, Javascript, Titanium, and .NET.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/250)*)
 
 - **[GUN](http://gun.js.org)** :zap:
 GUN is a highly modular, open-source, real-time, offline-first, distributed cache storage engine. By default gun uses localStorage for data storage, but with [gun-level](https://github.com/PsychoLlama/gun-level) there are [many more data storage engines](https://github.com/Level/levelup/wiki/Modules#storage) just a module away. GUN defaults to pushing all data. The gun team is regularly releasing new modules, new and improved functionality, and improving performance.
@@ -439,6 +443,7 @@ Marlin is a fast (2000+ requests per second) REST API library built on top of re
 
 - **[Parse Server](https://github.com/ParsePlatform/parse-server)**
 On the same day that Facebook announced they were shutting down Parse, they also released an open-source replacement called Parse Server. Many notable Parse features are missing including the Dashboard, Webhooks, Push delivery, Jobs, Analytics and Config.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/251)*)
 
 - **[Piwik](http://piwik.org)**
 Piwik is the leading open-source analytics platform that gives you more than just powerful analytics.
@@ -476,6 +481,7 @@ Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM S
 
 - **[Nimble Parse](http://nimbleparse.com)**
 We at Nimblestack built and launched a 100% Parse compatible API in less than one week. Current offer includes Object creation & query, User management, and Cloud Code. Push notifications and background jobs are in the pipeline.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/252)*)
 
 - **[Nitrous](https://www.nitrous.io)**
 Nitrous is a cloud-based code editor with collaboration, one-click installs and snapshots.
