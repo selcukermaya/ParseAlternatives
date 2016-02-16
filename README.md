@@ -487,6 +487,10 @@ We at Nimblestack built and launched a 100% Parse compatible API in less than on
 Nitrous is a cloud-based code editor with collaboration, one-click installs and snapshots.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/199)*)
 
+- **[ParseGround](http://www.parseground.com)**
+Simple Parse Server hosting made by Parse.com addicts. ParseGround takes care for the server management, so you can focus on your apps. Simple and flexible pricing. Based on AWS Technologies.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/253)*)
+
 - **[RAX](https://www.rackspace.com)**
 Cloud provider with support for it's own cloud, aws and azure. Supports running Node.js in both vms and docker containers.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/181)*)
@@ -494,7 +498,4 @@ Cloud provider with support for it's own cloud, aws and azure. Supports running 
 - **[Triton](https://www.joyent.com)**
 Joyents elastic container infrastructure backed by bare metal. It allows you to run Node.js apps and Mongo and provide a lot of tools for production debugging of Node.js apps.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/182)*)
-
-- **[ParseGround](http://www.parseground.com)**
-Simple Parse Server hosting made by Parse.com addicts. ParseGround takes care for the server management, so you can focus on your apps. Simple and flexible pricing. Based on AWS Technologies.
 
