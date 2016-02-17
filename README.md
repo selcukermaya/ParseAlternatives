@@ -74,7 +74,7 @@ AWS Mobile Hub lets you easily add and configure features for your mobile apps, 
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/89)*)
 
 - **[back{4}app](https://back4app.com)**
-back{4}app is a backend generator for web, mobile and IoT apps. It empowers the developers with diagrams to visually create whitebox backend code and REST API. The platform uses the developer's favorite framework (currently Parse or back{4}app) to instantly generate a code that can be customized and controlled. The backend can be deployed in back{4}app's BaaS with just one click, ow anywhere the developer wants. The solution is open source, whitebox, downloadable and have no vendor lock-in.
+back{4}app is a backend generator for web, mobile and IoT apps. It empowers the developers with diagrams to visually create whitebox backend code and REST API. The platform uses the developer's favorite framework (currently Parse or back{4}app) to instantly generate a code that can be customized and controlled. The backend can be deployed in back{4}app's BaaS with just one click, or anywhere the developer wants. The solution is open source, whitebox, downloadable and have no vendor lock-in.
 
 - **[Backand](http://backand.com)** :zap:
 Backand is a powerful backend-as-a-service for AngularJS that provides out-of-the-box social login, push notifications, Ionic integration and much more.
