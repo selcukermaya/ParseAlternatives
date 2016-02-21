@@ -169,6 +169,10 @@ Telerik Backend Services is equipped with a robust set of security measures to e
 ZetaPush is a realtime BaaS providing out of the box authentications and services. You can use noSQL database, file storage, search, mail, sms, etc, everything as a service. ZetaPush provides SDKs for mobile, web and IoT.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/102)*)
 
+- **[RapidAPI](https://rapidapi.com/)** :zap:
+RapidAPI is a BaaS providing many different features and APIs. User can use visual blocks to create the backend without writing a single line of code. You can do basic data storage, send push notifications, emails and text messages even integrate with Social APIs like Facebook, Google, Twitter and LinkedIn. 
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/261)*)
+
 ###Push notification providers
 
 - **[Accengage](http://www.accengage.com)** :zap:
