@@ -233,7 +233,7 @@ Pushy is an Android push notifications service up to 2x times faster than the co
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/134)*)
 
 - **[RadiumOne](https://radiumone.com/connect)**
-Connect is a free push notification and in-app analytics tool from RadiumOne. It is ideal for targetting Push Notifications based on in-app user behavior and coordinating Push Messaging with advertising through the integrated RadiumOne Data Management Platform (DMP) and programatic media-buying tools. Push messages can be targetted to users based on tagging, segmentation, and geolocation.
+Connect is a free push notification and in-app analytics tool from RadiumOne. It provides a full suite of analytics tools and is ideal for targetting Push Notifications based on in-app user behavior, as well as coordinating Push with advertising through the integrated RadiumOne Data Management Platform (DMP) and programatic media-buying tools.  Messages can be targetted to users based on tagging, segmentation, and geolocation.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/223)*)
 
 - **[Urban Airship](https://www.urbanairship.com)**
