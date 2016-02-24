@@ -481,7 +481,7 @@ We can help you migrate and host your app to minimize downtime and disruption.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/257)*)
 
 - **[YourParse](http://yourparse.com)**
-We will provide a new way to host your Parse application. You will be independent from cloud-providers, and your Parse apps will be shining like never before. We are a small group of IT engineers, who also stuck in Parse. We decided to create an easy way to create your own parse server, so everyone can enjoy further all the advantages, what Parse provide(d), with reliable pricing. 
+We will provide a new way to host your Parse application. You will be independent from cloud-providers, and your Parse apps will be shining like never before. We are a small group of IT engineers, who also stuck in Parse. We decided to create an easy way to create your own parse server, so everyone can enjoy further all the advantages, what Parse provide(d), with reliable pricing.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/258)*)
 
 ###Parse Server infrastructure providers
@@ -513,6 +513,10 @@ Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM S
 - **[Nitrous](https://www.nitrous.io)**
 Nitrous is a cloud-based code editor with collaboration, one-click installs and snapshots.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/199)*)
+
+- **[ObjectRocket](https://objectrocket.com)**
+ObjectRocket is a leading MongoDB-as-a-service provider specializing in extremely fast performance and friendly expertise. ObjectRocket offers Parse migration-specific support and also has direct connections to AWS, if you want your app tier to live there.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/267)*)
 
 - **[RAX](https://www.rackspace.com)**
 Cloud provider with support for it's own cloud, aws and azure. Supports running Node.js in both vms and docker containers.
