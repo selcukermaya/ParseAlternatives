@@ -224,7 +224,7 @@ OneSignal is a completely free push notification delivery service. We fund our p
 PushBots is a scalable push notification system for mobile applications that helps save time and effort to effectively communicate with your users. We provide native SDKs (Android, iOS, and Phonegap), REST API, API clients(PHP, Python, NodeJS and dotNET) and an online dashboard to manage and send your push notifications. We also provide analytics, push scheduling and Twitter integration.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/108)*)
 
-- **[PushChamp](https://www.pushchamp.com)**
+- **[PushChamp](https://www.pushchamp.com)** :zap:
 PushChamp is a cross-platform communication solution, which powers developers and marketeers to engage with their users and track the message deliveribility real-time. Currently supported platforms are mobile push notification(Android, iOS, Windows), browser push notification(Chrome, Firefox, Safari), Email and SMS. Some of our features are SMS fallback(in case of push fails), real-time analytics, user profiling and reusable templates.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/269)*)
 
