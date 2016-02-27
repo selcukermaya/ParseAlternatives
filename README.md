@@ -149,6 +149,10 @@ MoBack is a mobile as a back end service that specializes in push notifications,
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/40)*)
 
+- **[RapidAPI](https://rapidapi.com)** :zap:
+RapidAPI is a BaaS providing many different features and APIs. User can use visual blocks to create the backend without writing a single line of code. You can do basic data storage, send push notifications, emails and text messages even integrate with Social APIs like Facebook, Google, Twitter and LinkedIn. 
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/261)*)
+
 - **[Reindex](https://www.reindex.io)**
 Backend as a service with a GraphQL API. Reindex offers data storage, authentication, permissions, hooks for integrating with third-party services and custom code, and an open source SDK.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/99)*)
@@ -172,10 +176,6 @@ Telerik Backend Services is equipped with a robust set of security measures to e
 - **[ZetaPush](https://zetapush.com)** :zap:
 ZetaPush is a realtime BaaS providing out of the box authentications and services. You can use noSQL database, file storage, search, mail, sms, etc, everything as a service. ZetaPush provides SDKs for mobile, web and IoT.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/102)*)
-
-- **[RapidAPI](https://rapidapi.com/)** :zap:
-RapidAPI is a BaaS providing many different features and APIs. User can use visual blocks to create the backend without writing a single line of code. You can do basic data storage, send push notifications, emails and text messages even integrate with Social APIs like Facebook, Google, Twitter and LinkedIn. 
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/261)*)
 
 ###Push notification providers
 
