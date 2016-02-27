@@ -306,6 +306,10 @@ Google Analytics for Mobile Apps lets you measure the full value of your app acr
 Heap automatically captures every user action in your web or iOS app and lets you measure it all after the fact. Clicks, taps, swipes, form submissions, page views. You're no longer limited by events you thought to log upfront.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/145)*)
 
+- **[Liquid](https://onliquid.com)** :zap:
+Liquid is one stop shop analytics with Push notifications and In-App messages. Can segment users by attributes and behaviors and action upon them in real time.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/265)*)
+
 - **[Localytics](https://www.localytics.com)**
 Our Mobile Engagement Platform brings together User Insights, Smart Targeting & Marketing Automation to power great user engagement.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/116)*)
@@ -321,11 +325,6 @@ Taplytics is a fully integrated mobile A/B testing, push notification, and analy
 - **[WebEngage](https://webengage.com)** :zap:
 Multi-channel User Engagement Platform. Communicate via In-App Messages, Push Notifications, Web Messages, Emails, Text Messages in real-time. Understand your users across all channels. Real-time event analytics across all channels and platforms. Identify trends & patterns based on User Interests, Lifecycle, Behavior, Geo-location and much more.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/136)*)
-
-
-- **[Liquid](https://onliquid.com)** :zap:
-Liquid is one stop shop analytics with Push notifications and In-App messages. Can segment users by attributes and behaviors and action upon them in real time.
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/265)*)
 
 ###Crash Report providers
 
