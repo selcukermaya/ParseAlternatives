@@ -233,7 +233,7 @@ PushBots is a scalable push notification system for mobile applications that hel
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/108)*)
 
 - **[PushChamp](https://www.pushchamp.com)** :zap:
-PushChamp is a cross-platform communication solution, which powers developers and marketeers to engage with their users and track the message deliveribility real-time. Currently supported platforms are mobile push notification(Android, iOS, Windows), browser push notification(Chrome, Firefox, Safari), Email and SMS. Some of our features are SMS fallback(in case of push fails), real-time analytics, user profiling and reusable templates.
+PushChamp is a cross-platform communication solution, which powers developers and marketeers to engage with their users and track the message deliveribility real-time. Currently supported platforms are mobile push notification (Android, iOS, Windows), browser push notification (Chrome, Firefox, Safari), Email and SMS. Some of our features are SMS fallback(in case of push fails), real-time analytics, user profiling and reusable templates.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/269)*)
 
 - **[Pushwoosh](https://www.pushwoosh.com)**
