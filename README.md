@@ -322,6 +322,11 @@ Taplytics is a fully integrated mobile A/B testing, push notification, and analy
 Multi-channel User Engagement Platform. Communicate via In-App Messages, Push Notifications, Web Messages, Emails, Text Messages in real-time. Understand your users across all channels. Real-time event analytics across all channels and platforms. Identify trends & patterns based on User Interests, Lifecycle, Behavior, Geo-location and much more.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/136)*)
 
+
+- **[Liquid](https://onliquid.com)** :zap:
+Liquid is one stop shop analytics with Push notifications and In-App messages. Can segment users by attributes and behaviors and action upon them in real time.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/265)*)
+
 ###Crash Report providers
 
 - **[Crashlytics](https://fabric.io/kits/ios/crashlytics)** :zap:
