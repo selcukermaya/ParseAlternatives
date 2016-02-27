@@ -165,7 +165,7 @@ Backend-as-a-service focused on a powerful interface for creating your database 
 ShepHertz provides a Omni-Channel Platform (mobile, social, gaming, TV, IoT, wearables etc.) to build Apps and Games. Deployed in 9 countries, processing 25+ Billion API Calls and trusted by thousands of Indie developers, App Studios and Enterprises across the world, App42 offers 25+ mBaaS modules such as Push Notifications, NoSQL Storage, Cloud Code, User Management, File Upload, Advanced Actionable Analytics, Gaming Backend APIs and much more.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/248)*)
 
-- **[Syncano](https://www.syncano.io)**
+- **[Syncano](https://www.syncano.io)** :zap:
 Syncano is a highly customizable BaaS that greatly reduces the need for backend code and middleware so developers can focus on building exceptional user experiences.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/101)*)
 
